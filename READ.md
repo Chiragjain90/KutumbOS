@@ -1,19 +1,32 @@
 # KutumbOS
 
-## The AI Operating System for Every Family
+## One AI. One Family. Unlimited Possibilities.
 
-KutumbOS is an AI-powered family operating system that helps families manage:
-
-- 🏠 Home Management
-- 🛒 Smart Shopping
-- 👕 VostroAI Wardrobe
-- 📸 Yaadon Ka Ghar
-- 💳 Bills & Reminders
-- 🤖 AI Family Assistant
+KutumbOS is an AI Operating System designed to help every family manage daily life through specialized AI Agents.
 
 ## Vision
 
-One AI Assistant for Every Family.
+Build the world's first AI Operating System for families.
+
+## Core AI Agents
+
+- 🏠 Home Agent
+- 🛒 Shopping Agent
+- 👕 Wardrobe Agent
+- 📸 Memories Agent
+- 💳 Bills Agent
+- 👨‍👩‍👧‍👦 Family Agent
+
+## Project Structure
+
+```
+ai/
+apps/
+backend/
+website/
+mobile/
+docs/
+```
 
 ## Website
 
@@ -21,4 +34,6 @@ https://kutumbos.com
 
 ## Status
 
-🚧 Currently in Early Access.
+🚧 Under Development
+
+Copyright © 2026 KutumbOS
